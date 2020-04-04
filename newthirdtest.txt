@@ -1,0 +1,2 @@
+This is a sample file for the third test
+This can be used for the git new test
